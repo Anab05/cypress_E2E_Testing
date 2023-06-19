@@ -1,0 +1,14 @@
+[
+  {
+    "route": "/home"
+  },
+  {
+    "route": "/profile"
+  },
+  {
+    "route": "/admin/cities"
+  },
+  {
+    "route": "/admin/users"
+  }
+]
